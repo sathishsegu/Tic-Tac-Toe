@@ -58,11 +58,16 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This project is for personal or educational use only. It cannot be sold or used by others without permission. See the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
-If you have any questions or suggestions about the project, feel free to contact me:
-- **GitHub:** [your-username](https://github.com/your-username)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+For any inquiries or support, please reach out through the following channels
+Sathish Kumar Segu
+sathishsegu123@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sathishkumarsegu/)
+
+Project Link: [https://github.com/sathishsegu/tunetastic](https://github.com/sathishsegu/Tic-Tac-Toe)
+
 
 ---
